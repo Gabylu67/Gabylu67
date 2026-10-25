@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Gaby 👋
 
-<!--
-**Gabylu67/Gabylu67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Sistemas** con enfoque en **ciberseguridad**. Me gusta entender cómo funcionan las cosas desde la raíz: del hardware al código.
 
-Here are some ideas to get you started:
+## 🔐 En qué estoy
+- Preparándome para una certificación en ciberseguridad
+- Aprendiendo Linux y redes
+- Construyendo APIs REST en Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+
+## 📂 Proyectos destacados
+- **Sistema de pedidos de cafetería** — API REST en Java + cliente Swing + SQL Server
+- **Clasificador de sonidos de teclado** — Machine learning con espectrogramas en Python
